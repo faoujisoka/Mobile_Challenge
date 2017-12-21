@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">APPijouaf</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">139083440142047</string>
+    <string name="fb_login_protocol_scheme">fb139083440142047</string>
+    <string name="cancel_login">cancel_login</string>
+    <string name="error_login">error_login</string>
+
+</resources>
