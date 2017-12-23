@@ -1,4 +1,4 @@
-package com.sourcey.materiallogindemo;
+package com.ijouaf.akos;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
